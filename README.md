@@ -1,5 +1,8 @@
 # Repository For Super AI Mini Hackathon 4 (Online)
 
+## Deployment
+- https://app-fair-fare.onrender.com/
+
 ## Project Structure
 - `FairFareSwift` is repository of FairFare ***IOS Application*** version of FairFare
 - `FairFareWebsite` is repository of FairFare ***Web Application*** version of FairFare
