@@ -1,3 +1,6 @@
 [submodule "FairFareSwift"]
 	path = FairFareSwift
 	url = https://github.com/WaroonRagwongsiri/FairFareSwift.git
+[submodule "FairFareWebsite"]
+	path = FairFareWebsite
+	url = https://github.com/aszxcnm22/Fair-Fare-DM.git
